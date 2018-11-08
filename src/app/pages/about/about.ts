@@ -11,7 +11,7 @@ import { PopoverPage } from '../about-popover/about-popover';
   encapsulation: ViewEncapsulation.None
 })
 export class AboutPage {
-  conferenceDate = '2047-05-17';
+  conferenceDate = '2018-11-15';
 
   constructor(public popoverCtrl: PopoverController) { }
 
