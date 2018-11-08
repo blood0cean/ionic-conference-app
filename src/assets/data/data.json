@@ -51,7 +51,7 @@
               "timeStart": "11:15 am",
               "timeEnd": "12:00 am",
               "tracks": [
-                "Microservices",
+                "Tech",
                 "Frontend"
               ],
               "id": "3"
@@ -96,7 +96,7 @@
               "timeEnd": "12:45 pm",
               "location": "Kitchen",
               "tracks": [
-                "Break"
+                "Food"
               ],
               "id": "6"
             }
@@ -116,8 +116,8 @@
               "timeEnd": "13:45 pm",
               "tracks": [
                 "DevOps",
-                "Scrum",
-                "Agile"
+                "Agile",
+                "Tech"
               ],
               "id": "7"
             },
@@ -180,7 +180,7 @@
               "timeStart": "14:00 pm",
               "timeEnd": "15:00 pm",
               "tracks": [
-                "Lean",
+                "Lifestyle",
                 "Agile"
               ],
               "id": "11"
@@ -195,7 +195,7 @@
               "timeStart": "14:00 pm",
               "timeEnd": "15:00 pm",
               "tracks": [
-                "Sales"
+                "Session"
               ],
               "id": "12"
             },
@@ -224,7 +224,8 @@
               "timeStart": "14:00 pm",
               "timeEnd": "15:00 pm",
               "tracks": [
-                "Workshop"
+                "Workshop",
+                "Tech"
               ],
               "id": "14"
             }
@@ -258,7 +259,8 @@
               "timeStart": "15:15 pm",
               "timeEnd": "15:45 pm",
               "tracks": [
-                "Session"
+                "Session",
+                "Tech"
               ],
               "id": "16"
             },
@@ -306,7 +308,7 @@
               "timeStart": "16:00 pm",
               "timeEnd": "17:30 am",
               "tracks": [
-                "Security"
+                "Tech"
               ],
               "id": "19"
             }
@@ -343,7 +345,7 @@
     },
     {
       "name": "Philip Watson",
-      "profilePic": "/assets/img/Avatars/Philip.jpg",
+      "profilePic": "/assets/img/pictures/Philip-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -353,7 +355,7 @@
     },
     {
       "name": "Hein-Carl Frijlink",
-      "profilePic": "/assets/img/Avatars/Hein-Carl.jpg",
+      "profilePic": "/assets/img/pictures/Hein-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -363,7 +365,7 @@
     },
     {
       "name": "Ian Newman",
-      "profilePic": "/assets/img/Avatars/Ian.jpg",
+      "profilePic": "/assets/img/pictures/Ian-2-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -373,7 +375,7 @@
     },
         {
       "name": "Susan van Holstein",
-      "profilePic": "/assets/img/Avatars/Suus.jpg",
+      "profilePic": "/assets/img/pictures/suusholstein2-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -383,7 +385,7 @@
     },
         {
       "name": "Cristian Șelaru",
-      "profilePic": "/assets/img/Avatars/Cristian.jpg",
+      "profilePic": "/assets/img/pictures/Christian-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -393,7 +395,7 @@
     },
     {
       "name": "Yolanda Reis-Carrer",
-      "profilePic": "/assets/img/Avatars/Free-Bob.png",
+      "profilePic": "/assets/img/pictures/Yolanda-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -403,7 +405,7 @@
     },
     {
       "name": "Jorik Tuinman",
-      "profilePic": "/assets/img/Avatars/Jorik.jpg",
+      "profilePic": "/assets/img/pictures/jorik-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -413,7 +415,7 @@
     },
     {
       "name": "Adriana Hazulea",
-      "profilePic": "/assets/img/Avatars/Adriana.jpg",
+      "profilePic": "/assets/img/pictures/Adriana-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -423,7 +425,7 @@
     },
     {
       "name": "Jessica Cullen",
-      "profilePic": "/assets/img/Avatars/Jessica.jpg",
+      "profilePic": "/assets/img/pictures/jessica_2x_zw.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -433,7 +435,7 @@
     },
     {
       "name": "Ernout van der Waard",
-      "profilePic": "/assets/img/Avatars/Ernout.jpg",
+      "profilePic": "/assets/img/pictures/ernout.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -443,7 +445,7 @@
     },
     {
       "name": "Marian Maas",
-      "profilePic": "/assets/img/Avatars/Marian.jpg",
+      "profilePic": "/assets/img/pictures/marian.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -453,7 +455,7 @@
     },
     {
       "name": "Fabio D’Amico",
-      "profilePic": "/assets/img/Avatars/Fabio.jpg",
+      "profilePic": "/assets/img/pictures/fabio-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -463,7 +465,7 @@
     },
     {
       "name": "Arien Kock",
-      "profilePic": "/assets/img/Avatars/Arien.jpg",
+      "profilePic": "/assets/img/pictures/Arien-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -473,7 +475,7 @@
     },
     {
       "name": "Kieran Hester",
-      "profilePic": "/assets/img/Avatars/Kieran.jpg",
+      "profilePic": "/assets/img/pictures/Kieren-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -483,7 +485,7 @@
     },
     {
       "name": "Wieteke den Uijl",
-      "profilePic": "/assets/img/Avatars/Wieteke.jpg",
+      "profilePic": "/assets/img/pictures/wieteke.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -493,7 +495,7 @@
     },
     {
       "name": "César Hernández",
-      "profilePic": "/assets/img/Avatars/Cesar.jpg",
+      "profilePic": "/assets/img/pictures/Cesar-1x.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -503,7 +505,7 @@
     },
     {
       "name": "Wouter de Meijer",
-      "profilePic": "/assets/img/Avatars/Wouter.jpg",
+      "profilePic": "/assets/img/pictures/wouter-1xnw.jpg",
       "twitter": "",
       "about": "",
       "location": "",
@@ -513,7 +515,7 @@
     },
     {
       "name": "Bryan Soman",
-      "profilePic": "/assets/img/Avatars/Bryan.jpg",
+      "profilePic": "/assets/img/pictures/bryan_215xngowat.jpg",
       "twitter": "",
       "about": "",
       "location": "",
