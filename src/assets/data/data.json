@@ -1,345 +1,535 @@
 {
-
-  "schedule": [{
-    "date": "2047-05-17",
-    "groups": [{
-      "time": "8:00 am",
-      "sessions": [{
-        "name": "Breakfast",
-        "timeStart": "8:00 am",
-        "timeEnd": "9:00 am",
-        "location": "Dining Hall",
-        "tracks": ["Food"],
-        "id": "1"
-      }]
-    }, {
-      "time": "9:15 am",
-      "sessions": [{
-        "name": "Getting Started with Ionic",
-        "location": "Hall 2",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Ted Turtle"],
-        "timeStart": "9:30 am",
-        "timeEnd": "9:45 am",
-        "tracks": ["Ionic"],
-        "id": "2"
-      }, {
-        "name": "Ionic Tooling",
-        "location": "Executive Ballroom",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Rachel Rabbit"],
-        "timeStart": "9:45 am",
-        "timeEnd": "10:00 am",
-        "tracks": ["Tooling"],
-        "id": "3"
-      }, {
-        "name": "University of Ionic",
-        "location": "Hall 3",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Ellie Elephant"],
-        "timeStart": "9:15 am",
-        "timeEnd": "9:30 am",
-        "tracks": ["Ionic"],
-        "id": "4"
-      }]
-    }, {
-      "time": "10:00 am",
-      "sessions": [{
-        "name": "Migrating to Ionic",
-        "location": "Hall 1",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Eva Eagle", "Lionel Lion"],
-        "timeStart": "10:00 am",
-        "timeEnd": "10:15 am",
-        "tracks": ["Ionic"],
-        "id": "5"
-      }, {
-        "name": "What's New in Angular",
-        "location": "Hall 3",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Rachel Rabbit"],
-        "timeStart": "10:15 am",
-        "timeEnd": "10:30 am",
-        "tracks": ["Angular"],
-        "id": "6"
-      }, {
-        "name": "The Evolution of Ionicons",
-        "location": "Hall 2",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Isabella Iguana", "Eva Eagle"],
-        "timeStart": "10:15 am",
-        "timeEnd": "10:30 am",
-        "tracks": ["Design"],
-        "id": "7"
-      }, {
-        "name": "Ionic Pro",
-        "location": "Grand Ballroom A",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Charlie Cheetah"],
-        "timeStart": "10:45 am",
-        "timeEnd": "11:00 am",
-        "tracks": ["Services"],
-        "id": "8"
-      }]
-    }, {
-      "time": "11:00 am",
-      "sessions": [{
-        "name": "Ionic Workshop",
-        "location": "Hall 1",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Karl Kitten", "Lionel Lion"],
-        "timeStart": "11:00 am",
-        "timeEnd": "11:45 am",
-        "tracks": ["Workshop"],
-        "id": "9"
-      }, {
-        "name": "Community Interaction",
-        "location": "Hall 3",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Lionel Lion", "Gino Giraffe"],
-        "timeStart": "11:30 am",
-        "timeEnd": "11:50 am",
-        "tracks": ["Communication"],
-        "id": "10"
-      }, {
-        "name": "Navigation in Ionic",
-        "location": "Grand Ballroom A",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
-        "timeStart": "11:30 am",
-        "timeEnd": "12:00 pm",
-        "tracks": ["Navigation"],
-        "id": "11"
-      }]
-    }, {
-      "time": "12:00 pm",
-      "sessions": [{
-        "name": "Lunch",
-        "location": "Dining Hall",
-        "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
-        "timeStart": "12:00 pm",
-        "timeEnd": "1:00 pm",
-        "tracks": ["Food"],
-        "id": "12"
-      }]
-    }, {
-      "time": "1:00 pm",
-      "sessions": [{
-        "name": "Ionic in the Enterprise",
-        "location": "Hall 1",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Paul Puppy"],
-        "timeStart": "1:00 pm",
-        "timeEnd": "1:15 pm",
-        "tracks": ["Communication"],
-        "id": "13"
-      }, {
-        "name": "Ionic Worldwide",
-        "location": "Hall 1",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Gino Giraffe"],
-        "timeStart": "1:15 pm",
-        "timeEnd": "1:30 pm",
-        "tracks": ["Communication"],
-        "id": "14"
-      }, {
-        "name": "The Ionic Package",
-        "location": "Grand Ballroom B",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Molly Mouse", "Burt Bear"],
-        "timeStart": "1:30 pm",
-        "timeEnd": "2:00 pm",
-        "tracks": ["Services"],
-        "id": "15"
-      }]
-    }, {
-      "time": "2:00 pm",
-      "sessions": [{
-        "name": "Push Notifications in Ionic",
-        "location": "Hall 2",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Burt Bear", "Charlie Cheetah"],
-        "timeStart": "2:00 pm",
-        "timeEnd": "2:30 pm",
-        "tracks": ["Services"],
-        "id": "16"
-      }, {
-        "name": "Ionic Documentation",
-        "location": "Grand Ballroom B",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Donald Duck"],
-        "timeStart": "2:30 pm",
-        "timeEnd": "2:45 pm",
-        "tracks": ["Documentation"],
-        "id": "17"
-      }, {
-        "name": "UX in Ionic",
-        "location": "Hall 3",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
-        "timeStart": "2:45 pm",
-        "timeEnd": "3:00 pm",
-        "tracks": ["Design"],
-        "id": "18"
-      }]
-    }, {
-      "time": "3:00",
-      "sessions": [{
-        "name": "Angular Directives in Ionic",
-        "location": "Hall 1",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Ted Turtle"],
-        "timeStart": "3:00 pm",
-        "timeEnd": "3:30 pm",
-        "tracks": ["Angular"],
-        "id": "19"
-      }, {
-        "name": "Mobile States",
-        "location": "Hall 2",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-        "speakerNames": ["Rachel Rabbit"],
-        "timeStart": "3:30 pm",
-        "timeEnd": "3:45 pm",
-        "tracks": ["Navigation"],
-        "id": "20"
-      }]
-    }]
-  }],
-
-
-  "speakers": [{
-    "name": "Burt Bear",
-    "profilePic": "/assets/img/speakers/bear.jpg",
-    "twitter": "ionicframework",
-    "about": "Burt is a Bear.",
-    "location": "Everywhere",
-    "email": "burt@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "1"
-  }, {
-    "name": "Charlie Cheetah",
-    "profilePic": "/assets/img/speakers/cheetah.jpg",
-    "twitter": "ionicframework",
-    "about": "Charlie is a Cheetah.",
-    "location": "Everywhere",
-    "email": "charlie@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "2"
-  }, {
-    "name": "Donald Duck",
-    "profilePic": "/assets/img/speakers/duck.jpg",
-    "twitter": "ionicframework",
-    "about": "Donald is a Duck.",
-    "location": "Everywhere",
-    "email": "donald@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "3"
-  }, {
-    "name": "Eva Eagle",
-    "profilePic": "/assets/img/speakers/eagle.jpg",
-    "twitter": "ionicframework",
-    "about": "Eva is an Eagle.",
-    "location": "Everywhere",
-    "email": "eva@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "4"
-  }, {
-    "name": "Ellie Elephant",
-    "profilePic": "/assets/img/speakers/elephant.jpg",
-    "twitter": "ionicframework",
-    "about": "Ellie is an Elephant.",
-    "location": "Everywhere",
-    "email": "ellie@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "5"
-  }, {
-    "name": "Gino Giraffe",
-    "profilePic": "/assets/img/speakers/giraffe.jpg",
-    "twitter": "ionicframework",
-    "about": "Gino is a Giraffe.",
-    "location": "Everywhere",
-    "email": "gino@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "6"
-  }, {
-    "name": "Isabella Iguana",
-    "profilePic": "/assets/img/speakers/iguana.jpg",
-    "twitter": "ionicframework",
-    "about": "Isabella is an Iguana.",
-    "location": "Everywhere",
-    "email": "isabella@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "7"
-  }, {
-    "name": "Karl Kitten",
-    "profilePic": "/assets/img/speakers/kitten.jpg",
-    "twitter": "ionicframework",
-    "about": "Karl is a Kitten.",
-    "location": "Everywhere",
-    "email": "karl@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "8"
-  }, {
-    "name": "Lionel Lion",
-    "profilePic": "/assets/img/speakers/lion.jpg",
-    "twitter": "ionicframework",
-    "about": "Lionel is a Lion.",
-    "location": "Everywhere",
-    "email": "lionel@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "9"
-  }, {
-    "name": "Molly Mouse",
-    "profilePic": "/assets/img/speakers/mouse.jpg",
-    "twitter": "ionicframework",
-    "about": "Molly is a Mouse.",
-    "location": "Everywhere",
-    "email": "molly@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "10"
-  }, {
-    "name": "Paul Puppy",
-    "profilePic": "/assets/img/speakers/puppy.jpg",
-    "twitter": "ionicframework",
-    "about": "Paul is a Puppy.",
-    "location": "Everywhere",
-    "email": "paul@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "11"
-  }, {
-    "name": "Rachel Rabbit",
-    "profilePic": "/assets/img/speakers/rabbit.jpg",
-    "twitter": "ionicframework",
-    "about": "Rachel is a Rabbit.",
-    "location": "Everywhere",
-    "email": "rachel@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "12"
-  }, {
-    "name": "Ted Turtle",
-    "profilePic": "/assets/img/speakers/turtle.jpg",
-    "twitter": "ionicframework",
-    "about": "Ted is a Turtle.",
-    "location": "Everywhere",
-    "email": "ted@example.com",
-    "phone": "+1-541-754-3010",
-    "id": "13"
-  }],
-
-
-  "map": [{
-    "name": "Monona Terrace Convention Center",
-    "lat": 43.071584,
-    "lng": -89.380120,
-    "center": true
-  }, {
-    "name": "Ionic HQ",
-    "lat": 43.074395,
-    "lng": -89.381056
-  }, {
-    "name": "Afterparty - Brocach Irish Pub",
-    "lat": 43.07336,
-    "lng": -89.38335
-  }]
-
+  "schedule": [
+    {
+      "date": "2018-11-15",
+      "groups": [
+        {
+          "time": "9:15 am",
+          "sessions": [
+            {
+              "name": "Opening",
+              "timeStart": "9:15 am",
+              "timeEnd": "9:30 am",
+              "location": "Mainstage",
+              "tracks": [
+                "General"
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "time": "9:30 am",
+          "sessions": [
+            {
+              "name": "Workshop Energy Management",
+              "location": "Mainstage",
+              "description": "It all seems very simple, but yet few people manage to 'manage' their energy levels properly.  How are you doing now? What are your signals of an empty battery? Especially when things are going well, it is important to invest in this. That's what we're going to do. Self-reflection and making steps. So you can continue to shine, at home and at work!",
+              "speakerNames": [
+                "Jelle Rietveld"
+              ],
+              "timeStart": "9:30 am",
+              "timeEnd": "11:00 am",
+              "tracks": [
+                "Workshop",
+                "Lifestyle"
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "time": "11:15 am",
+          "sessions": [
+            {
+              "name": "Front-end applications after the micro-services era",
+              "location": "Mainstage",
+              "description": "Creating front-end applications these days is not just throw a single page application on top of microservices? What happens when your application is getting bigger? Just add more developers is the right solution? oh yeah!!! Components are going further. Join my talk and learn more about this!",
+              "speakerNames": [
+                "Diego Chavez"
+              ],
+              "timeStart": "11:15 am",
+              "timeEnd": "12:00 am",
+              "tracks": [
+                "Tech",
+                "Frontend"
+              ],
+              "id": "3"
+            },
+            {
+              "name": "A rotten statue and the European nineteenth century",
+              "location": "Rosetta",
+              "description": "There is an old Dutch saying ‘Dat is naatje!’, which means as much as ‘That’s screwed up’ or ‘That’s useless’. This saying referred to the statue Eendracht der Hollandsche Natie or Naatje for short. In this talk we will discuss why this statue is perfect to explain the much of the nineteenth century and why people associated the statue with failure.",
+              "speakerNames": [
+                "Hein-Carl Frijlink"
+              ],
+              "timeStart": "11:15 am",
+              "timeEnd": "11:45 am",
+              "tracks": [
+                "History"
+              ],
+              "id": "4"
+            },
+            {
+              "name": "Why the F*** do you work?",
+              "location": "Cassini",
+              "description": "An interactive session about why people choose to work.",
+              "speakerNames": [
+                "Susan van Holstein"
+              ],
+              "timeStart": "11:15 am",
+              "timeEnd": "12:00 am",
+              "tracks": [
+                "Session",
+                "Lifestyle"
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "time": "12:00 pm",
+          "sessions": [
+            {
+              "name": "Lunch",
+              "timeStart": "12:00 pm",
+              "timeEnd": "12:45 pm",
+              "location": "Kitchen",
+              "tracks": [
+                "Food"
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "time": "12:45 pm",
+          "sessions": [
+            {
+              "name": "Introduction to DevOps with Lego, Chocolate and a Scrum game",
+              "location": "Mainstage",
+              "description": "You will learn about the DevOps mindset through games and chocolate.",
+              "speakerNames": [
+                "Cristian Șelaru"
+              ],
+              "timeStart": "12:45 pm",
+              "timeEnd": "13:45 pm",
+              "tracks": [
+                "DevOps",
+                "Agile",
+                "Tech"
+              ],
+              "id": "7"
+            },
+            {
+              "name": "Minimalism - Decrease complexity and improve quality at life and work",
+              "location": "Rosetta",
+              "description": "In this session, Yolanda will explain the Minimalism concept, a lifestyle which many claim promotes increased personal satisfaction. When applied at work, minimalism can make you more productive and improve the quality of what you deliver, and that’s the power of MVP. In addition, Yolanda will take you step by step through frameworks which you can apply this concept in your life and work.",
+              "speakerNames": [
+                "Yolanda Reis-Carrer"
+              ],
+              "timeStart": "12:45 pm",
+              "timeEnd": "13:45 pm",
+              "tracks": [
+                "Lifestyle"
+              ],
+              "id": "8"
+            },
+            {
+              "name": "Agile workshop / game",
+              "location": "Huygens",
+              "description": "What are the agile values and principles? How can we encourage self-organisation and improve the way we work as a team? We will discover answers to these questions and much more by playing a serious fun and colorful game with talented people.",
+              "speakerNames": [
+                "Jorik Tuinman",
+                "Adriana Hazulea"
+              ],
+              "timeStart": "12:45 pm",
+              "timeEnd": "13:45 pm",
+              "tracks": [
+                "Workshop",
+                "Agile"
+              ],
+              "id": "9"
+            },
+            {
+              "name": "Lightning Decision Jam workshop",
+              "location": "Cassini",
+              "description": "A means of quickly-solving complex problems, this workshop can be applied in small team project team settings to corporate strategy meetings, and beyond. It is a method of getting maximum productivity from people with differing views.",
+              "speakerNames": [
+                "Philip Watson"
+              ],
+              "timeStart": "12:45 pm",
+              "timeEnd": "13:45 pm",
+              "tracks": [
+                "Workshop"
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "time": "14:00 pm",
+          "sessions": [
+            {
+              "name": "System thinking and aquaponics",
+              "location": "Mainstage",
+              "description": "System thinking is the way of thinking that is at the foundation of agile development frameworks like lean and scrum. In this talk I will use my aquaponics system as an example to explain what systems thinking really is about.",
+              "speakerNames": [
+                "Marian Maas"
+              ],
+              "timeStart": "14:00 pm",
+              "timeEnd": "15:00 pm",
+              "tracks": [
+                "Lifestyle",
+                "Agile"
+              ],
+              "id": "11"
+            },
+            {
+              "name": "Spotting & closing opportunities 101 - how to spot and create sales opportunities if you are not ‘in sales’",
+              "location": "Rosetta",
+              "description": "Do you want to know more about the sales process? Knowing a bit more on how to sell is useful in many of life’s situations!  In the first 30 minutes I’ll share 5 things that are absolutely essential to know. And after that you will experience a sales conversation hands on - so you can put your new skill into practise right away. In the process I’ll also share what changed my (developers) point of view on sales completely 7 years ago. See you at the academy day!",
+              "speakerNames": [
+                "Ernout van der Waard"
+              ],
+              "timeStart": "14:00 pm",
+              "timeEnd": "15:00 pm",
+              "tracks": [
+                "Session"
+              ],
+              "id": "12"
+            },
+            {
+              "name": "Shakespearean insults workshop",
+              "location": "Huygens",
+              "description": "And now for something completely different… get up, get moving and learn how to hurl insults with the bold belligerence of The Bard while practicing intonation and delivery. Old English may not be a programming language, but it’s anything but dead. Workshop format; be prepared to participate!",
+              "speakerNames": [
+                "Jessica Cullen"
+              ],
+              "timeStart": "14:00 pm",
+              "timeEnd": "14:45 pm",
+              "tracks": [
+                "Lifestyle",
+                "Workshop"
+              ],
+              "id": "13"
+            },
+            {
+              "name": "Mutation testing",
+              "location": "Cassini",
+              "description": "Mutation testing is conceptually quite simple. Faults (or mutations) are automatically seeded into your code, then your tests are run. If your tests fail then the mutation is killed, if your tests pass then the mutation lived. The quality of your tests can be gauged from the percentage of mutations killed.",
+              "speakerNames": [
+                "Fabio D’Amico"
+              ],
+              "timeStart": "14:00 pm",
+              "timeEnd": "15:00 pm",
+              "tracks": [
+                "Workshop",
+                "Tech"
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "time": "15:15 pm",
+          "sessions": [
+            {
+              "name": "Lessons from eight months of teaching",
+              "location": "Mainstage",
+              "description": "Why did I want to do this again? I forget my reason for becoming a teacher, but I will never forget the journey. It's given me a new appreciation for the teachers I've had in my life, and so many other intangible things I had no idea about. It's put so many things in perspective and I've only just scratched the surface. I'd like to share what I've learned.",
+              "speakerNames": [
+                "Arien Kock"
+              ],
+              "timeStart": "15:15 pm",
+              "timeEnd": "15:45 pm",
+              "tracks": [
+                "Lifestyle"
+              ],
+              "id": "15"
+            },
+            {
+              "name": "Case study about IFS",
+              "location": "Rosetta",
+              "description": "A retro of IFS, mentioning some of the things which we have found really useful such as the external and internal user testing as well as some of the things which haven't went as well and what we would do differently if we could start the project from scratch.",
+              "speakerNames": [
+                "Kieran Hester",
+                "Ian Newman"
+              ],
+              "timeStart": "15:15 pm",
+              "timeEnd": "15:45 pm",
+              "tracks": [
+                "Session",
+                "Tech"
+              ],
+              "id": "16"
+            },
+            {
+              "name": "Using game principles to engage users",
+              "location": "Huygens",
+              "description": "Gamification has been a bit of a buzzword the past few years, but the buzz has silenced a little. However, gamification is still very much alive. It’s the practice of adding gaming principles to applications to engage and persuade users, which we sometimes already implement without realising it’s gamification. I’d like to introduce you to some basic principles and how they can be applied.",
+              "speakerNames": [
+                "Wieteke den Uijl"
+              ],
+              "timeStart": "15:15 pm",
+              "timeEnd": "15:45 pm",
+              "tracks": [
+                "Session"
+              ],
+              "id": "17"
+            },
+            {
+              "name": "Web Summit recap",
+              "location": "Cassini",
+              "description": "César will talk about some of the talks and topics he visited during the Web Summit in Lisbon.",
+              "speakerNames": [
+                "César Hernández"
+              ],
+              "timeStart": "15:15 pm",
+              "timeEnd": "15:45 pm",
+              "tracks": [
+                "Session"
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "time": "16:00 pm",
+          "sessions": [
+            {
+              "name": "Hack Yourself Before You Wreck Yourself",
+              "location": "Mainstage",
+              "description": "A security mistake is easily made. You forget to lock your screen and as consequence, you're buying pizza for the whole office. These are security  mistakes we are aware of. The challenge lies in identify the mistakes that we aren't aware of. In our presentation we will take a step back and look at what security really is about. In the end, we want to test your security knowledge and honesty with a quiz!",
+              "speakerNames": [
+                "Wouter de Meijer",
+                "Bryan Soman"
+              ],
+              "timeStart": "16:00 pm",
+              "timeEnd": "17:30 am",
+              "tracks": [
+                "Tech"
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "time": "17:30 pm",
+          "sessions": [
+            {
+              "name": "Closing",
+              "timeStart": "17:30 am",
+              "timeEnd": "17:45 am",
+              "location": "Mainstage",
+              "tracks": [
+                "General"
+              ],
+              "id": "20"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jelle Rietveld",
+      "profilePic": "/assets/img/Avatars/Free-Bob.png",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "",
+      "location": "",
+      "email": "",
+      "phone": "+31 (0)70 820 0998",
+      "id": "1"
+    },
+    {
+      "name": "Philip Watson",
+      "profilePic": "/assets/img/pictures/Philip-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "UX Designer",
+      "location": "",
+      "email": "pWatson@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "2"
+    },
+    {
+      "name": "Hein-Carl Frijlink",
+      "profilePic": "/assets/img/pictures/Hein-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Tester",
+      "location": "",
+      "email": "hfrijlink@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "3"
+    },
+    {
+      "name": "Ian Newman",
+      "profilePic": "/assets/img/pictures/Ian-2-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Tester",
+      "location": "",
+      "email": "inewman@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "4"
+    },
+        {
+      "name": "Susan van Holstein",
+      "profilePic": "/assets/img/pictures/suusholstein2-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "HR Assistant",
+      "location": "",
+      "email": "svanholstein@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "5"
+    },
+        {
+      "name": "Cristian Șelaru",
+      "profilePic": "/assets/img/pictures/Christian-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "DevOps Engineer",
+      "location": "",
+      "email": "cselaru@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "6"
+    },
+    {
+      "name": "Yolanda Reis-Carrer",
+      "profilePic": "/assets/img/pictures/Yolanda-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Scrum Master",
+      "location": "",
+      "email": "yreiscarrer@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "7"
+    },
+    {
+      "name": "Jorik Tuinman",
+      "profilePic": "/assets/img/pictures/jorik-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Scrum Master",
+      "location": "",
+      "email": "jtuinman@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "8"
+    },
+    {
+      "name": "Adriana Hazulea",
+      "profilePic": "/assets/img/pictures/Adriana-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Scrum Master",
+      "location": "",
+      "email": "ahazulea@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "9"
+    },
+    {
+      "name": "Jessica Cullen",
+      "profilePic": "/assets/img/pictures/jessica_2x_zw.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Head of Creative Services",
+      "location": "",
+      "email": "jcullen@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "10"
+    },
+    {
+      "name": "Ernout van der Waard",
+      "profilePic": "/assets/img/pictures/ernout.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "CEO",
+      "location": "",
+      "email": "evdwaard@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "11"
+    },
+    {
+      "name": "Marian Maas",
+      "profilePic": "/assets/img/pictures/marian.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Head of Delivery",
+      "location": "",
+      "email": "mmaas@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "12"
+    },
+    {
+      "name": "Fabio D’Amico",
+      "profilePic": "/assets/img/pictures/fabio-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Software Engineer",
+      "location": "",
+      "email": "fdamico@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "13"
+    },
+    {
+      "name": "Arien Kock",
+      "profilePic": "/assets/img/pictures/Arien-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Sr. Software Engineer",
+      "location": "",
+      "email": "akock@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "14"
+    },
+    {
+      "name": "Kieran Hester",
+      "profilePic": "/assets/img/pictures/Kieren-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Software Engineer",
+      "location": "",
+      "email": "khester@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "15"
+    },
+    {
+      "name": "Wieteke den Uijl",
+      "profilePic": "/assets/img/pictures/wieteke.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Interaction / UX Designer",
+      "location": "",
+      "email": "wdenuijl@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "16"
+    },
+    {
+      "name": "César Hernández",
+      "profilePic": "/assets/img/pictures/Cesar-1x.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Software Engineer",
+      "location": "",
+      "email": "chernandez@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "17"
+    },
+    {
+      "name": "Wouter de Meijer",
+      "profilePic": "/assets/img/pictures/wouter-1xnw.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Security Specialist",
+      "location": "",
+      "email": "wdemeijer@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "18"
+    },
+    {
+      "name": "Bryan Soman",
+      "profilePic": "/assets/img/pictures/bryan_215xngowat.jpg",
+      "twitter": "WorthSystems",
+      "about": "", "jobTitle": "Security Specialist",
+      "location": "",
+      "email": "bsoman@worth.systems",
+      "phone": "+31 (0)70 820 0998",
+      "id": "19"
+    }
+  ],
+  "map": [
+    {
+      "name": "Worth Internet Systems",
+      "lat": 52.06535239999999,
+      "lng": 4.345542000000023,
+      "center": true
+    }
+  ]
 }
