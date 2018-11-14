@@ -11,47 +11,50 @@
   <div class="about-header">
     <img src="assets/img/worth-logo-website.png" alt="worth logo">
   </div>
-  <p padding class="about-info">
-    <h4>Worth Academy Day</h4>
 
-    <ion-list lines="none">
-      <ion-item>
-        <ion-icon name="calendar" slot="start"></ion-icon>
-        <ion-label>Date</ion-label>
-        <ion-datetime displayFormat="MMM DD, YYYY" max="2056" [(ngModel)]="conferenceDate"></ion-datetime>
-      </ion-item>
+  <div class="about-container">
+    <!-- <p padding class="about-info"> -->
+      <h4>Worth Academy Day</h4>
 
-      <ion-item>
-        <ion-icon name="pin" slot="start"></ion-icon>
-        <ion-label>Location</ion-label>
-        <ion-select>
-          <ion-select-option value="zuid-holland" selected>Netherlands, Zuid-Holland</ion-select-option>
-        </ion-select>
-      </ion-item>
-    </ion-list>
+      <ion-list lines="none">
+        <ion-item>
+          <ion-icon name="calendar" slot="start"></ion-icon>
+          <ion-label>Date</ion-label>
+          <ion-datetime displayFormat="MMM DD, YYYY" max="2056" [(ngModel)]="conferenceDate"></ion-datetime>
+        </ion-item>
 
-    <h5>
-      An action-packed day for all Worthies to enjoy, be inspired, share knowledge and make cool stuff!
-    </h5>
-    <p>
-      It’s nearly Worth Academy Day! What does that mean for us at Worth?
-      It means that our NL headquarters will once again transform into a bustling campus to stage our very own Worth Academy Day!
-      This is an action-packed day for all Worthies to enjoy, be inspired, share knowledge, and experiment with technology.
-    </p>
-    <p>
-      Following in the footsteps of the inaugural 2017 Academy Day, we'll be taking in:
-    </p>
-      <ul>
-        <li>Lectures and presentations</li>
-        <li>Workshops</li>
-        <li>Demonstrations</li>
-        <li>And much, much more!</li>
-      </ul>
-    <p>
-      Curious about what we're up to on this special day? Take a sneak peek at the agenda for the day…
-    </p>
-    <p>
-      We will be live-tweeting the entire day, so if you're interested, be sure to follow @WorthSystems on Twitter to stay updated!
-    </p>
+        <ion-item>
+          <ion-icon name="pin" slot="start"></ion-icon>
+          <ion-label>Location</ion-label>
+          <ion-select>
+            <ion-select-option value="zuid-holland" selected>Netherlands, Zuid-Holland</ion-select-option>
+          </ion-select>
+        </ion-item>
+      </ion-list>
+
+      <h5>
+        An action-packed day for all Worthies to enjoy, be inspired, share knowledge and make cool stuff!
+      </h5>
+      <p>
+        It’s nearly Worth Academy Day! What does that mean for us at Worth?
+        It means that our NL headquarters will once again transform into a bustling campus to stage our very own Worth Academy Day!
+        This is an action-packed day for all Worthies to enjoy, be inspired, share knowledge, and experiment with technology.
+      </p>
+      <p>
+        Following in the footsteps of the inaugural 2017 Academy Day, we'll be taking in:
+      </p>
+        <ul>
+          <li>Lectures and presentations</li>
+          <li>Workshops</li>
+          <li>Demonstrations</li>
+          <li>And much, much more!</li>
+        </ul>
+      <p>
+        Curious about what we're up to on this special day? Take a sneak peek at the agenda for the day…
+      </p>
+      <p>
+        We will be live-tweeting the entire day, so if you're interested, be sure to follow @WorthSystems on Twitter to stay updated!
+      </p>
+  </div>
 
 </ion-content>

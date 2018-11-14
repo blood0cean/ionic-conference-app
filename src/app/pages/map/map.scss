@@ -11,6 +11,10 @@ page-map {
     transition: opacity 150ms ease-in
   }
 
+  .map-container {
+    padding: 16px;
+  }
+
   .show-map {
     opacity: 1;
   }
