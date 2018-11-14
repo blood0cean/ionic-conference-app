@@ -336,7 +336,7 @@
     {
       "name": "Jelle Rietveld",
       "profilePic": "/assets/img/Avatars/Free-Bob.png",
-      "twitter": "WorthSystems",
+      "twitter": "",
       "about": "", "jobTitle": "",
       "location": "",
       "email": "",
@@ -522,6 +522,16 @@
       "email": "bsoman@worth.systems",
       "phone": "+31 (0)70 820 0998",
       "id": "19"
+    },
+    {
+      "name": "Diego Chavez",
+      "profilePic": "/assets/img/Avatars/Diego.jpg",
+      "twitter": "diegochavez",
+      "about": "", "jobTitle": "",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "id": "20"
     }
   ],
   "map": [

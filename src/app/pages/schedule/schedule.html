@@ -38,6 +38,7 @@
         <ion-item button (click)="goToSessionDetail(session)">
           <ion-label>
             <h3>{{session.name}}</h3>
+            <h4>{{session.speakerNames?.join(", ")}}</h4>
             <p>
               {{session.timeStart}} &mdash; {{session.timeEnd}}: {{session.location}}
             </p>
